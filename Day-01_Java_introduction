@@ -1,0 +1,81 @@
+Automation concepts:
+1.CoreJava--Basic datatypes, collections, Arrays, oops and String
+2.Selenium concepts --Excel, object repository model (ORM-properties files), POM (page object model),XPATH (100%)-Automation script run, predefined classes
+3.Test-ng- (execution tool) -- Test (without using main ())
+4.Frameworks–DD (Data Driven (TestNG)-80%, BDD(Behaviour Driven) (JUNIT)-20%
+5.Maven
+6.GIT
+7.Programs-20 -5(1-2 ways/3 ways)
+--------------------------------------------------------------------------------------------------------------
+
+
+Java? 
+
+How run to java program?
+ 
+
+Setting path in the system using environmental variable:
+	1. Download java and install it in your machine
+	2. Set the java path in the system.
+ 
+
+
+
+Jar(javaarchive):Representsagroupof“.classfiles”.
+
+WhatisthedifferencebetweenJDK, JREandJVM?
+JDK(javadevelopmentkit):TodevelopandrunjavaapplicationstherequiredenvironmentisJDK.
+JRE (java runtime environment):To run java application the required environment is JRE.
+JVM (java virtual machine):To execute java application the required virtual machine is JVM
+	JDK=JRE+DevelopmentTools.
+	JRE=JVM+Libraries.
+	JRE is thepart ofJDK.
+
+
+Method in java
+ 
+
+  main () method importance in java
+ 
+
+Packages in Java:
+ 
+
+
+
+Eclipse installation steps:
+https://www.eclipse.org/downloads/
+
+ 
+
+ 
+Select Maven project from the wizard
+
+ 
+
+
+In filter provide:  maven-archetype-quickstart and select 1.4 version click on Next button
+ 
+
+
+Provide GroupId,Artifact id and click on finish then project is created
+
+ 
+Type after :: Y then press enter button 
+
+ 
+
+ 
+
+
+Once project is created ,Right click on src/test/javacreate new package under it with any name like”mypackage:
+ 
+
+ 
+
+Under mypackagecreate one class file like below way.
+ 
+
+Select public static void main checkbox while creating class
+
+ 
